@@ -450,25 +450,99 @@ The following sub-topics fall within the standard physics olympiad syllabus (IPh
 
 ## 6. Recommendations for Students
 
-Based on the statistical analysis:
+Based on the statistical analysis of 66 problems across 11 years:
 
-1. **Must-prepare topics** (appear nearly every year):
-   - Mechanics: Rotational dynamics, dynamics with friction, gravitation
-   - E&M: Electrostatics, magnetism, circuits (DC and AC)
-   - Special Relativity: Time dilation, relativistic energy/momentum
+---
 
-2. **High-value topics** (frequent and high-weight):
-   - Thermodynamics: Carnot cycle, gas laws, phase changes
-   - Quantum Mechanics: Uncertainty principle, energy levels, quantum models
+### 6.1 Priority Tier System
 
-3. **Emerging topics** (increasing in recent years):
-   - Astrophysics applications (stellar models, white dwarfs, tidal disruption)
-   - Cross-disciplinary modeling (bio-physics, engineering contexts)
-   - Wave optics & Fabry–Pérot / interferometry
+#### 🔴 Tier 1 — Must Master (appear nearly every year, ~62% of all problems)
 
-4. **Don't neglect** (intermittent but still tested):
-   - Geometric optics, Doppler effect, fluid dynamics
-   - Particle physics (energy thresholds, decay)
+| Topic Area | Key Sub-topics to Master | Appearances |
+|------------|-------------------------|-------------|
+| **Mechanics** | Rotational dynamics & angular momentum | 6 problems |
+| | Dynamics with friction (inclines, wedges, collisions) | 4 problems |
+| | Gravitation & orbital mechanics | 3 problems |
+| | Fluid dynamics & surface tension | 3 problems |
+| **E&M** | Electrostatics (charge distributions, fields, potentials) | 6 problems |
+| | Magnetism & inductance (solenoids, toroids) | 4 problems |
+| | Circuits — both DC analysis and AC/RLC resonance | 4 problems |
+
+> [!IMPORTANT]
+> If you can only study two topics, study **rotational mechanics** and **electrostatics**. Together they account for 12 of 66 problems (18%) and appear in nearly every exam.
+
+#### 🟡 Tier 2 — Must Know (appear regularly, ~32% of problems)
+
+| Topic Area | Key Sub-topics | Appearances |
+|------------|---------------|-------------|
+| **Special Relativity** | Time dilation, Lorentz transforms, relativistic energy/momentum | 5 problems |
+| **Thermodynamics** | Carnot cycle, gas laws, phase changes, entropy | 8 problems total |
+| **Quantum Mechanics** | Uncertainty principle, energy quantization, quantum models | 3 problems |
+| **Astrophysics Applications** | Stellar models, blackbody radiation, tidal forces | 3 problems |
+
+#### 🟢 Tier 3 — Should Know (intermittent, ~9% of problems)
+
+| Topic Area | Key Sub-topics | Appearances |
+|------------|---------------|-------------|
+| **Geometric Optics** | Refraction, lenses, ray tracing, caustics | 2 problems |
+| **Wave Optics** | Interference, Fabry–Pérot, thin-film effects | 2 problems |
+| **Doppler Effect / Acoustics** | Moving sources, sound propagation | 2 problems |
+| **Particle Physics** | Energy thresholds, decay, cosmic ray limits | 2 problems |
+
+#### ⚪ Tier 4 — Wildcard Preparation (appeared only once — high surprise value)
+
+These appeared exactly **once** in 11 years but were full multi-part problems:
+
+- Foucault pendulum / rotating reference frames (2020)
+- Lagrangian mechanics / generalized coordinates (2022)
+- Classical Hall effect / condensed matter (2021)
+- Fabry–Pérot resonator (2025)
+- Statics & bending moments (2022)
+- Quantum heat capacity of solids — Einstein/Debye models (2024)
+
+> [!WARNING]
+> **Wildcard problems are the #1 differentiator between top-20 and top-100 finishers.** A student who has never seen a Lagrangian or a Fabry–Pérot cavity will lose an entire problem's worth of points.
+
+---
+
+### 6.2 Never-Tested Topics — Watch List for Future Exams
+
+These topics are within the IPhO/USAPhO syllabus but have **never appeared** (2015–2025). They represent the most likely "new" problem areas:
+
+| Likelihood | Topics |
+|------------|--------|
+| **High** (overdue based on IPhO trends) | Polarization, diffraction gratings, electromagnetic waves / Poynting vector |
+| **Medium** (within scope, plausible) | Coupled oscillators / normal modes, dielectrics & capacitors, Compton scattering |
+| **Lower** (elementary or specialized) | Thermal expansion, calorimetry, photoelectric effect, Bohr model |
+
+---
+
+### 6.3 Suggested Study Time Allocation
+
+Based on topic frequency and point value:
+
+```
+Mechanics (rotational, dynamics, gravity)  ████████████████████  30%
+E&M (electrostatics, magnetism, circuits)  ████████████████████  30%
+Modern Physics (SR, QM, astrophysics)      ████████████          15%
+Thermodynamics (engines, gas laws, phase)  ██████                10%
+Waves & Optics (geometric, wave, Doppler)  ██████                10%
+Wildcard / Never-appeared topics           ███                    5%
+```
+
+---
+
+### 6.4 Problem-Solving Strategy
+
+1. **Expect cross-disciplinary framing.** Post-2018 problems almost always embed physics in real-world contexts (tidal disruption of stars, animal shaking mechanics, digital photography). Practice extracting the physics model from an unfamiliar scenario.
+
+2. **Master dimensional analysis and scaling laws.** Many USAPhO problems ask you to derive how a quantity scales with system parameters (e.g., $\omega \sim M^n$). This skill is tested far more than plug-and-chug calculation.
+
+3. **Practice the 90-minute format.** Each part has 3 problems in 90 minutes = 30 min/problem. Budget 5 minutes reading, 20 minutes solving, 5 minutes checking.
+
+4. **Study the actual past exams.** Every year's exam is linked in Section 1 of this report. Work through them under timed conditions — the style is consistent and recognizable once you've done 3–4 years.
+
+5. **Don't skip Part B.** Part B problems tend to be harder and more modern (relativity, astrophysics, advanced E&M), but partial credit is generous. Even deriving the setup equations can earn significant points.
 
 ---
 
